@@ -1,0 +1,60 @@
+Christmas Itinerary
+
+
+Below you’ll find a suggested itinerary for making the most of your holiday break. You do not have to follow this itinerary if you prefer to study from other resources. However, you should absolutely study over this holiday period. Students that opt not to put any time into studying will find themselves struggling immensely on return from break. The class will move at a faster pace post-break, and a firm understanding of Unit I will be required to keep up.
+
+On toy problems:
+Try working on your own through each problem for 5-15min. If you’re totally stuck, start googling to see if you can get moving. 
+If you solve the problem quickly on your own, search for another problem on codewars. I recommend searching for level 7s, by “Most Completed”.
+
+
+If you make no progress with googling, google for a solution.
+
+ IMPORTANT: After finding a solution, retype the solution character by character. Do not just copy/paste solutions, ever. After typing it out, spend time going over the solution until you understand the logic. 
+if you were unable to solve a problem on your own, try the problem again the next day without referencing the solution. 
+
+
+
+Monday
+9:00-10:00 Toy Problems: 
+Even or Odd - https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
+Remove String Spaces - http://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript
+Simple Reverse - https://www.codewars.com/kata/simple-fun-number-20-first-reverse-try/train/javascript
+10-12:30 Videos: Rewatch the pre-class videos from JavaScript I, II, and III. 
+1:30-5:00 Project: Re-do JavaScript II’s afternoon projects from scratch. Links can be found below. In order to re-do the projects, clone them down directly from the DevMountain repository. Note that you will not be able to ‘git push’ to the DevMountain repository, so don’t worry about pushing up the re-done code. 
+https://github.com/DevMountain/javascript-2-afternoon
+https://github.com/DevMountain/javascript-2-afternoon-2
+https://github.com/DevMountain/javascript-2-afternoon-3
+
+
+
+
+Tuesday & Wednesday - OFF
+
+
+
+Thursday
+9:00-10:00 Toy Problems: 
+Broken Multiply - https://www.codewars.com/kata/multiply/train/javascript
+Broken Swap Case  - https://repl.it/@matias_perez/Broken-Swap-Case
+10-11:30 Video: JavaScript Crash Course - https://www.youtube.com/watch?v=hdI2bqOjy3c
+This Crash Course will review what you’ve covered thus far, but will also cover briefly a number of the topics you’ll be covering in the near future. Much of the latter half of the video may not fully make sense, but stick with it—the exposure will help you internalize the topics when we cover them in class. 
+1:30-5:00 Project: Re-do JavaScript III’s afternoon project from scratch. Link can be found below. In order to re-do the project, clone it down directly from the DevMountain repository. Note that you will not be able to ‘git push’ to the DevMountain repository, so don’t worry about pushing up the re-done code. 
+https://github.com/DevMountain/javascript-3-afternoon-project
+
+
+
+Friday
+9:00-10:00 Toy Problems: 
+String repeat - https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
+Find the smallest integer - https://www.codewars.com/kata/55a2d7ebe362935a210000b2
+Are the numbers in order?  - https://www.codewars.com/kata/are-the-numbers-in-order/train/javascript
+10:00-11:00 Video: HTML Crash Course - Brad Traversy Crash Course HTML
+11:00-12:30 Video: CSS Crash Course - Brad Traversy Crash Course CSS
+1:30-5:00 Project: Fork, clone, and work through: https://github.com/DevMountain/HTML-CSS-Practice-Problems
+
+Bonus: Start learning flexbox with: Flexbox Froggy Game Flexbox Defense Game and/or  Flexbox Zombies Game 
+Saturday
+Self-guided
+Sunday
+Self-guided & Pre-class for Monday
