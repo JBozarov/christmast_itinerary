@@ -11,20 +11,33 @@ function multiply(a, b){
 
 // Broken Swap Case  - https://repl.it/@matias_perez/Broken-Swap-Case
 
+// function caseReverse(str) {
+//   var strArray = str.split(' ');
+//   for (var i=0; i<strArray.length; i++) {
+// 		var tempArr = strArray[i].split('');
+//     for (var m=0; m<tempArr.length; m++){
+// 			if (tempArr[m]==tempArr[m].toUpperCase()){
+// 				tempArr[m]=tempArr[m].toLowerCase();
+// 				strArray[i]=tempArr.join(''); 
+// 			}
+// 			else tempArr[m]=tempArr[m].toUpperCase(); 
+// 			strArray[i]=tempArr.join(''); 
+// 		}
+//   }
+//   return strArray
+// }
+
+
 function caseReverse(str) {
-  var strArray = str.split(' ');
-  for (var i=0; i<strArray.length; i++) {
-		var tempArr = strArray[i].split('');
-    for (var m=0; m<tempArr.length; m++){
-			if (tempArr[m]==tempArr[m].toUpperCase()){
-				tempArr[m]=tempArr[m].toLowerCase();
-				strArray[i]=tempArr.join(''); 
-			}
-			else tempArr[m]=tempArr[m].toUpperCase(); 
-			strArray[i]=tempArr.join(''); 
-		}
+  var strArray = str.split('');
+  for (var i = 0; i < strArray.length; i++) {
+    if (strArray[i] === strArray[i].toUpperCase()) {
+      strArray[i] = strArray[i].toLowerCase();
+    } else {
+      strArray[i] = strArray[i].toUpperCase();
+    }
   }
-  return strArray
+  return strArray.join('')
 }
 
 
