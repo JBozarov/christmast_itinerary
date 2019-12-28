@@ -15,6 +15,7 @@ function even_or_odd(number) {
   
   function noSpace(x){
     return x.split(' ').join(''); 
+    
 }
   
   
