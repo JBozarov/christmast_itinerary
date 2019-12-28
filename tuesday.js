@@ -24,7 +24,7 @@ function multiply(a, b){
 // 			strArray[i]=tempArr.join(''); 
 // 		}
 //   }
-//   return strArray
+//   return strArray 
 // }
 
 
